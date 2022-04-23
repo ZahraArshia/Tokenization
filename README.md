@@ -1,4 +1,5 @@
 # Tokenization
+### The meaning of the text could easily be interpreted by analyzing the words present in the text!
 Given a character sequence and a defined document unit, tokenization is the task of chopping it up into pieces, called *tokens* , perhaps at the same time throwing away certain characters, such as punctuation. Here is an example of tokenization:
 
 ![image](https://user-images.githubusercontent.com/78906545/164943424-7d5d91bb-46a2-4cac-aa5f-cabb8e041c0b.png)
